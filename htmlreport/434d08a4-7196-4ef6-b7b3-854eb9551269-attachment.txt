@@ -1,0 +1,8 @@
+[32mINFO    [0m WDM:logger.py:27 
+
+[32mINFO    [0m WDM:logger.py:27 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:27 Current google-chrome version is 101.0.4951
+[32mINFO    [0m WDM:logger.py:27 Get LATEST chromedriver version for 101.0.4951 google-chrome
+[32mINFO    [0m WDM:logger.py:27 Driver [/Users/shahzadakram/.wdm/drivers/chromedriver/mac64/101.0.4951.41/chromedriver] found in cache
+[32mINFO    [0m dev.test.step_defs.conftest:test_login_steps.py:70 Forgot password link
+[32mINFO    [0m dev.test.step_defs.conftest:test_login_steps.py:77 Forgot password link Test Passed
